@@ -1,0 +1,6 @@
+cffi==1.15.0
+cryptography==35.0.0
+idna==3.3
+pycparser==2.20
+pyOpenSSL==21.0.0
+six==1.16.0
